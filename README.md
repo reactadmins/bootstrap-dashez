@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://demo.reactadmin.com/bootstrap/dashez" title="React Admin">Dashez Dashboard Bootstrap version</a>
+  <a href="https://demo.reactadmin.com/bootstrap/dashez" title="Dashez">Dashez Dashboard Bootstrap version</a>
 </h1>
 
 ![Dashez dashboard template preview](https://pixarlabs-bucket.s3.us-west-1.amazonaws.com/wp-content/uploads/2024/04/06131556/Dashez.png)
@@ -102,7 +102,7 @@ run development server
 Within the download you'll find the following directories and files:
 
 ```
-React Admin Dashboard Bootstrap
+Dashez Dashboard Bootstrap
 
 .
 ├── public
